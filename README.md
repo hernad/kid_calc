@@ -42,3 +42,9 @@ Example multiply:
     2*3=6
     2 puta 3 je jednako 6
 
+
+About
+----------------------
+
+Made by Bakir
+

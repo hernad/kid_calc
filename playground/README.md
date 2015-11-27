@@ -2,9 +2,11 @@
 Usage
 ----------
 
-    ./num_ags 1 2 3
 
-    1
-    2
-    3
+    ./num_args.sh prvi drugi treci
+
+    Argument broj 1: prvi
+    Argument broj 2: drugi
+    Argument broj 3: treci
+
 
